@@ -37,8 +37,16 @@ _**Average Fare per Driver:**_ As I felt above, the larger the number of drivers
 * **Suburban** drivers won't be able to, so their prices will be higher and the distance will drive their prices.  
 * **Rural** drivers, they pretty much can set their prices as the demand is low, and those that need it, will pay what is asked.
 
+### Ride Sharing data by city type
+---
 ![DetailsoverTime](analysis/PyBer_fare_summary.png)
-
+---
+The above chart shows the **Total Weekly Fares** over the period of time from January until May 2019.  Each city type, **Urban, Suburban** and **Rural**, is represented by a different line on the chart.  A few analysis points to notice:
+1. All 3 city types jump up in the last week of February.
+2. All 3 city types drop the first week of March.
+3. Rural cities stay pretty much in the 0 to $500 total fares.
+4. Suburban cities stay with in the $500 to $1500 total fares.
+5. Urban cities stay within the $1500 to $2500 total fares.
 
 
 

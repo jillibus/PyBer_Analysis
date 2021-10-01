@@ -3,9 +3,8 @@
 ![PyBer Analysis](resources/PyBer_Analysis.png)
 
 ## Overview
+The CEO of PyBer, V. Isualize, has requested an additional analysis on the Ride Sharing data by City Type. In this new analysis, I will be creating a multiple-line graph that shows the total weekly fares for each city type, Urban, Suburban, and Rural.  Then I will present a written report that summarizes how the data differs by city type and how those differences can be used by decision-makers at PyBer.
 
-### need a subheading
--- Explain the purpose of the new analysis
 
 Manager Omar - work with me to get the visualization correct
 
@@ -19,6 +18,11 @@ analytical work needs to be comprehensive and correct.
 
 Your CEO will most likely ask why you chose the charts you did, so you'd better be prepared to answer.
 The best chart that can relay data over a period of time is a line chart, and when you want to compare 3 different 'types of data', like Type of city, Urban, Suburban and Rural, over a period of time in the Ride Share business this was the best option to present the data, in a clear and accurate fashion.
+
+### Resources
+* Data Source: city_data.csv, ride_data.csv
+* Software: Python 3.7.10, Jupyter Notebook 6.3.0, Matplotlib 3.4.3
+
 
 ## Results
 

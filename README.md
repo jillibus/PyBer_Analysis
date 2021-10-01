@@ -27,18 +27,21 @@ _Total Drivers:_ Again these numbers follow the Total Rides, and this would be i
 _Total Fares:_ It is as expected that the amount of money would follow the same pattern that more rides would make more money, and this analysis didn't disappoint.
 * Urban areas with almost $40k, Suburban areas with almost $20k and Rural with a little over $4k.
 
-### Now lets look at when we look at the percentages
+### Now lets look these totals visually
 ![Total Rides](analysis/PIE_Rides_by_city.png)
----
-Urban cities saw more than 2/3 of the total rides during the first 4 months of 2019. Suburban cities saw 26%, and Rural cities with the smallest porportion of only 5.3%.
 
+Urban cities saw more than 2/3 of the total rides during the first 4 months of 2019. Suburban cities saw 26.8%, and Rural cities with the smallest portion of only 5%.
+
+---
 ![Total Drivers](analysis/PIE_Drivers_by_city.png)
----
-Drivers in Urban cities were by far the biggest majority with 80.9% of the companies force in the first 4 months of 2019.  Suburban drivers made 26.3% of the drivers and Rural 5.3% of the drivers in PyBar.
 
-![Total Fares](analysis/PIE_Fares_by_city.png)
+Drivers in Urban cities were by far the biggest majority with 86.7% of the companies force in the first 4 months of 2019.  Suburban drivers made 12.5% of the drivers and Rural 0.8% of the drivers in PyBar.
+
 ---
-Urban cities definitely have the focus of PyBar's business model with 63% of the first 4 months of total fares in 2019. Suburban fares came in at 30.5% of the total fares with Rural cities coming in with x
+![Total Fares](analysis/PIE_Fares_by_city.png)
+
+Urban cities definitely have the focus of PyBar's business model with 62.7% of the first 4 months of total fares in 2019. Suburban fares came in at 30.5% of the total fares with Rural cities coming in with 6.8%
+
 ---
 ### The average fare per ride and driver by city
 The following chart showss us the relationship between the average price per share and the number of rides and drivers per city type.

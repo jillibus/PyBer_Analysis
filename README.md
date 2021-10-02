@@ -45,7 +45,7 @@ Urban cities definitely have the focus of PyBar's business model with 62.7% of t
 ### The average fare per ride and driver by city
 The following chart showss us the relationship between the average price per share and the number of rides and drivers per city type.
 
-![Correlation](analysis/ScatterPlot.png)
+![Correlation](analysis/NumberofRides.png)
 
 * From this chart we notice that the average fare tends to decrease as the total number of rides increase in each city type. 
 * We also notice that the per driver count per city type, the bubbles get larger as the average fare decreases and/or when the total number of rides increase.
@@ -65,9 +65,7 @@ _**Average Fare per Driver:**_ As I felt above, the larger the number of drivers
 
 ### Ride Sharing data by city type
 ---
-<p align='center'>
-  <img src='analysis/PyBer_fare_summary.png' />
-</p>
+![Final Chart](analysis/PyBer_fare_summary.png)
 
 The above chart shows the **Total Weekly Fares** over the period of time from January until May 2019.  Each city type, **Urban, Suburban** and **Rural**, is represented by a different line on the chart.  A few analysis points to notice:
 1. All 3 city types jump up in the last week of February.
@@ -80,6 +78,12 @@ So knowing how the analysis came out from our data above, and now our new analys
 
 ## Summary
 
-### need a subheading
--- Based on the results, provide 3 business recommendations to the CEO for addressing any disparities among the city types.
+* The Urban cities are still your most utilized and most profitable areas. The trends I have shown is the higher number of drivers, the more rides are handled and the lower the average fares are coming in. Cities have large competition for ride share companies and the people want friendly drivers, clean cars and cars there when they need them.  I think focusing on how we can retain our drivers, recruit more drivers and offer our riders incentives and the best ride to continue to use our service over others, will increase our ride share with other companies such as Uber, Lyft, Curb and many others.
+* Suburban cities are still a large share of our ride share service, marketing our application and setting routes in well known smaller cities and larger towns, could really bring up those areas in which more people will want to ditch their cars and use our service.  We currently only have about 17% of our drivers in suburban areas, but they currently make up 30% of our total fares, so that can definitely increase our revenue, even if we discount rates to set routes, and make our PyBar app easier to use, with a set of known routes in each town and have set fares with a discount.
+* Rural towns and counties are our most underserved areas, and this would be a tough area to expand on as the cost might not be returned. There are just a few drivers and the fares are high due to the length of time it takes to get out to most of these peoples homes to pick them up and then take them to their destination.  We would have to obtain more data, such as geographic size, travel distance, number of travelers each ride, before we could really break down the rural averages to see if 1 or more would make investing more drivers into their areas.
 
+Overall, making our PyBar Mobile application more user friendly as technology advances at a rapid pace is always a way to go. Setting up ways for pre-set trips and ones a person can save on their phone, to make it easier for them to just pull up our app and choose, could make the difference of choosing us versus one that they had to always enter who they are, where they are, where they want to go.  Setting up accounts and set routes and keeping incentives for so many rides per month, would also help retain riders.
+
+Thank you for allowing me to perform this analysis for you. If you have any questions about this report, please let me know and I would be happy to answer them for you.
+
+Jill Hughes

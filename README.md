@@ -47,7 +47,7 @@ The following chart showss us the relationship between the average price per sha
 
 ![Correlation](analysis/ScatterPlot.png)
 
-* From this chart we notice that the average fare tends to decrease as the total number of rides increase in each city type.  This is a negative relationship. 
+* From this chart we notice that the average fare tends to decrease as the total number of rides increase in each city type. 
 * We also notice that the per driver count per city type, the bubbles get larger as the average fare decreases and/or when the total number of rides increase.
 * Rural cities show the least amount of drivers and the number of rides overall and their fares range from the middle to the highest.
 
@@ -65,7 +65,9 @@ _**Average Fare per Driver:**_ As I felt above, the larger the number of drivers
 
 ### Ride Sharing data by city type
 ---
-![DetailsoverTime](analysis/PyBer_fare_summary.png)
+<p align='center'>
+  <img src='analysis/PyBer_fare_summary.png' />
+</p>
 
 The above chart shows the **Total Weekly Fares** over the period of time from January until May 2019.  Each city type, **Urban, Suburban** and **Rural**, is represented by a different line on the chart.  A few analysis points to notice:
 1. All 3 city types jump up in the last week of February.

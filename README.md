@@ -42,15 +42,16 @@ Drivers in Urban cities were by far the biggest majority with 86.7% of the compa
 
 Urban cities definitely have the focus of PyBar's business model with 62.7% of the first 4 months of total fares in 2019. Suburban fares came in at 30.5% of the total fares with Rural cities coming in with 6.8%
 
----
 ### The average fare per ride and driver by city
 The following chart showss us the relationship between the average price per share and the number of rides and drivers per city type.
 
 ![Correlation](analysis/ScatterPlot.png)
 
+* From this chart we notice that the average fare tends to decrease as the total number of rides increase in each city type.  This is a negative relationship. 
+* We also notice that the per driver count per city type, the bubbles get larger as the average fare decreases and/or when the total number of rides increase.
+* Rural cities show the least amount of drivers and the number of rides overall and their fares range from the middle to the highest.
 
-
-
+We don't have any information regarding the actual population sizes of these cities, but we can make some educated guesses on why these 3 relationships are showing.
 
 _**Average Fare per Ride:**_ I wasn't as shocked to see the opposite trend in the average calculations from what we saw above, for a few reasons.
 * **Urban** areas have shorter distances to travel, as most are going to be within the same city or to an airport at the edge of a city. Urban fares can combine passengers so each passenger can get a discount which can lower the fares.  Passengers can sign up for a regularly scheduled pickup/dropoff, so the company can offer a discount on pre-paid monthly passes.  
@@ -65,7 +66,7 @@ _**Average Fare per Driver:**_ As I felt above, the larger the number of drivers
 ### Ride Sharing data by city type
 ---
 ![DetailsoverTime](analysis/PyBer_fare_summary.png)
----
+
 The above chart shows the **Total Weekly Fares** over the period of time from January until May 2019.  Each city type, **Urban, Suburban** and **Rural**, is represented by a different line on the chart.  A few analysis points to notice:
 1. All 3 city types jump up in the last week of February.
 2. All 3 city types drop the first week of March.
@@ -73,6 +74,7 @@ The above chart shows the **Total Weekly Fares** over the period of time from Ja
 4. Suburban cities stay with in the $500 to $1500 total fares.
 5. Urban cities stay within the $1500 to $2500 total fares.
 
+So knowing how the analysis came out from our data above, and now our new analysis with the data over the period of time from January through April 2019, we can look at these new points of interest and see how we can go forward in our business model at PyBar.
 
 ## Summary
 
